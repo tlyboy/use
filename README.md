@@ -1,15 +1,15 @@
 # use
 
-🛠️ Things I am using
+🛠️ 我在使用的东西
 
-## Hardware
+## 硬件
 
-- Desktop: AMD Ryzen 7 9800X3D + NVIDIA GeForce RTX 5080 16GB + 32GB DDR5 + 1TB + 4TB
-- Laptop: MacBook Pro 16" (2023) M3 Max 128GB 1TB Space Black / ~~机械革命 深海幽灵 Z2-R (i7-9750H / RTX 2060 / 32GB / 1TB)~~
-- Mobile: iPhone 17 Pro Max 2TB 银色 / ~~iPhone 15 Pro Max 256GB 黑色~~ / ~~iPhone SE (第二代) 128GB 银色~~ / ~~iPhone 7 亮黑色~~ / ~~iPhone 6s 银色~~
-- Keyboard: Keychron Q6 Max (Carbon Black / 热插拔红轴 / 旋钮版) / ~~Dareu EK925 防水版 黑色红轴~~
-- Mouse: Logitech G PRO X SUPERLIGHT 2 DEX (GPW4 鹰眼) / ~~Logitech G PRO X SUPERLIGHT~~ / ~~Logitech G502 HERO~~
-- Controller: DualSense Wireless Controller 白色
-- Monitor: AOC U27G3X 27" 4K 160Hz
-- Headphones: AirPods Pro (第二代) Lightning 充电盒 / ~~Audio-Technica ATH-SR30BT 崩坏3×八重樱联动版~~
-- Speakers: EDIFIER HECATE G1500 BAR
+- 台式机：AMD Ryzen 7 9800X3D + NVIDIA GeForce RTX 5080 16GB + 32GB DDR5 + 1TB + 4TB
+- 笔记本：MacBook Pro 16 英寸 (2023) M3 Max 128GB 1TB 深空黑 / ~~机械革命 深海幽灵 Z2-R (i7-9750H / RTX 2060 / 32GB / 1TB)~~
+- 手机：iPhone 17 Pro Max 2TB 银色 / ~~iPhone 15 Pro Max 256GB 黑色~~ / ~~iPhone SE (第二代) 128GB 银色~~ / ~~iPhone 7 亮黑色~~ / ~~iPhone 6s 银色~~
+- 键盘：Keychron Q6 Max 碳黑色 热插拔红轴 旋钮版 / ~~达尔优 EK925 防水版 黑色红轴~~
+- 鼠标：罗技 G PRO X SUPERLIGHT 2 DEX (GPW4 鹰眼) / ~~罗技 G PRO X SUPERLIGHT~~ / ~~罗技 G502 HERO~~
+- 手柄：DualSense 无线控制器 白色
+- 显示器：AOC U27G3X 27 英寸 4K 160Hz
+- 耳机：AirPods Pro (第二代) Lightning 充电盒 / ~~铁三角 ATH-SR30BT 崩坏3×八重樱联动版~~
+- 音箱：漫步者 HECATE G1500 BAR
